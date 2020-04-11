@@ -1,0 +1,2 @@
+# javascript
+Weird JavaScript Udemy
